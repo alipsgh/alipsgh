@@ -1,4 +1,4 @@
-### You either code or get coded.
+### Let's code Software & AI.
 
 <!--
 **alipsgh/alipsgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
