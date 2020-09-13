@@ -1,4 +1,4 @@
-### Let's code Software & AI.
+### Hello GitHubists World!
 
 <!--
 **alipsgh/alipsgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
