@@ -10,6 +10,9 @@
 
 <!-- [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alipsgh&count_private=true&show_icons=true&theme=algolia)](https://alipsgh.github.io/) -->
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+
+
 </p>
 
 <!--
