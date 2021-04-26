@@ -2,7 +2,7 @@
 
 <p align="center">
   
-<img src="./head_2.jpg" width="100%">
+<img src="./supermario.png" width="3.2%">
 <br /><br />
 <img src="https://img.shields.io/github/stars/alipsgh?affiliations=OWNER%2CCOLLABORATOR&style=social"> 
 <a href="https://www.linkedin.com/in/alipsgh"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> 
