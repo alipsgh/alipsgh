@@ -1,7 +1,7 @@
 ### $ ...
 
-[<img src="https://github.com/alipsgh/ml-talks/blob/master/the-art-of-machine-learning/ad-cover/the_art_of_machine_learning.jpg" width="25%" />](https://github.com/alipsgh/ml-talks/blob/master/the-art-of-machine-learning/the_art_of_machine_learning.pdf)
-[<img src="https://github.com/alipsgh/ml-talks/blob/master/data-shift-cibc-vector/ad-cover/cibc_vector_ds.jpg" width="25%" />](https://github.com/alipsgh/ml-talks/blob/master/data-shift-cibc-vector/cibc_vector_ds.pdf)
+[<img src="https://github.com/alipsgh/ml-talks/blob/master/the-art-of-machine-learning/ad-cover/the_art_of_machine_learning.jpg" width="30%" />](https://github.com/alipsgh/ml-talks/blob/master/the-art-of-machine-learning/the_art_of_machine_learning.pdf)
+[<img src="https://github.com/alipsgh/ml-talks/blob/master/data-shift-cibc-vector/ad-cover/cibc_vector_ds.jpg" width="30%" />](https://github.com/alipsgh/ml-talks/blob/master/data-shift-cibc-vector/cibc_vector_ds.pdf)
 
 <p>
 
